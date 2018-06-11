@@ -1,0 +1,11 @@
+model2\FilmActorPK.class
+da\EntityManagerHelper.class
+model\Actor.class
+da\AbstractFacade.class
+controller\ActorController.class
+model2\FilmActor.class
+da\ActorFacadeREST.class
+model2\Actor.class
+com\config\ApplicationConfig.class
+da\ActorResource.class
+da\ResourceBase.class
